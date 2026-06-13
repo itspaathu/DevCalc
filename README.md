@@ -1,5 +1,7 @@
 # DevCalc — The Developer's Calculator
 
+🔗 **Live demo:** [https://dev-calc-blue.vercel.app/](https://dev-calc-blue.vercel.app/)
+
 A calculator, developer toolkit, and number system explorer combined into one elegant,
 keyboard-first web app. Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Zustand.
 
@@ -51,6 +53,8 @@ npm run preview
 1. Push this repository to GitHub.
 2. Import the repo into [Vercel](https://vercel.com/new).
 3. Framework preset: **Vite**. No extra configuration is required.
+
+The live deployment is available at [https://dev-calc-blue.vercel.app/](https://dev-calc-blue.vercel.app/).
 
 ## Project Structure
 
